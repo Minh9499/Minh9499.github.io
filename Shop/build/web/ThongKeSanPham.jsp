@@ -148,9 +148,6 @@
                                     <div class="card-header">
                                         <h3 class="card-title">Loại sản phẩm</h3>
                                         <div class="pull-right" style="text-align: right;">
-                                            <button type="button" class="btn btn-success" onclick="openadd()">
-                                                <i class="fa fa-plus" title="thêm mới"></i>Thêm mới
-                                            </button>
                                         </div>
                                     </div>
                                     <div class="card-body">

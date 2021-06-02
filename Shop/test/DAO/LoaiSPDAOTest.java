@@ -40,6 +40,7 @@ public class LoaiSPDAOTest {
         rb.RollBackLoaiSP();
     }
     @Test
+   
     public void testGetAllLoaiSP() {
         System.out.println("getAllLoaiSP");
         LoaiSPDAO instance = new LoaiSPDAO();
